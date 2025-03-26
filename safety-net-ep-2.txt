@@ -1,0 +1,24 @@
+Hello!, Welcome to another episode of Safety Net.
+
+Today, I'll be talking about App Permissions.
+
+As developers continue on making software, the number of features being offered to our devices are also being continuously developed. These features depend on hardware and software components of a device. The common features are cameras and device files and others which include the following:
+
+Fingerprint Sensors
+With the introduction of fingerprint sensors on computers and mobile phones, (besides manufacturers) developers have made use of this component and today we have apps that use these fingerprint sensors for security purposes such as lockscreens and account verification or shopping.
+
+Compass
+Some devices also have an in-built compass that can be used even when there's no internet connection. This is becoming useful for mapping systems. While taking advantage of these features, developers are making applications and internet services that have been configured to work in harmony with the components.
+
+For these apps and services to use the components effectively, there is need for permission. Apps cannot be given access to use these components if the user has not allowed it and usually during the initial loading of an app, a permission prompt is given to the user giving the user a decision to either allow or deny the permissions. If a user denies the permission prompt, the components responsible for the app's certain functionality will refuse to co-operate with the app thereby causing the application to crash or cause the application to simply return the permission request prompt. For example, for a photo shooting app to work the app needs permission to use the camera component on the device. (Not all components that make up a device require permission e.g speakers).
+
+Well, the permission requests are sometimes combined or phrased in different ways but the user can still understand what is being meant. Remember, these components are not only external ones or hardware but can also be software. Some of these permissions include: access to device files, ability to make and manage phone calls. A typical music player app will require permission such as access to device files.
+
+Some people do not take these permission prompts seriously and just accept. Some sneaky developers take advantage of that and plant bugs into apps. Suppose you have downloaded a calculator app and then it asks for permission to make phone calls, realistically, that is absurd, but because users aren't attentive, they will just accept to whatever pops up on their screen in an effort to get rid of the annoying prompts. The sneaky developers are able to gain access to files on the user's phone without the user even knowing it. Some bugged apps that are given permission to use the camera end up taking pictures with the user's camera and uploading them to their cloudbase with the user having zero clue as to what's happening. Personal information, passwords, privacy and security are easily breached by this simple hack.
+
+Simple Solutions:
+As a user, you must first make sure that the app you have is from a reliable source, some app stores such as Google Play offer app verification. The user should try to make sense of a permission and it's relevance or use in the app. (It's not like the user should deny all permissions unless it is necessary). They should carefully analyse the permissions. Remember: Don't merely accept a permission without analysing it.
+
+While the following may not be the best solution, it may be to your interest if you are someone who wants to be extra careful. Try denying all permissions, then whenever an app needs to use that permission it will return that permission prompt. Suppose you have WhatsApp and deny all permissions. Whenever there may be the need of using such components, find sense in the permission prompt with the app feature. If WhatsApp needs to take pictures and gives a prompt, you can then accept the permission request.
+
+For now, Goodbye

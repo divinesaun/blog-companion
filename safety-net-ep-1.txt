@@ -1,0 +1,42 @@
+Welcome to the very official first episode of "Safety Net".
+
+In this episode we will talk about Click Bait
+
+What is a clickbait?
+
+Clickbait - website content that is aimed at generating advertising revenue, especially at the expense of quality or accuracy, relying on sensationalist headlines to attract click-throughs; such headlines.
+
+In simple terms, clickbaits lure internet surfers with misleading headlines. Clickbaits are usually used for marketing purposes and advertisements.
+
+Here are some headlines to demonstrate what clickbaits generally look like:
+
+Stand a chance to win an IPhone 13 by completing this simple survey.
+
+Get a scholarship and learn in Dubai with accomodation, tuition and all expenses fully covered.
+
+Download this app and get free unlimited internet
+
+When user clicks the links, they are usually welcomed by a lot of Ad popups and a lot of redirections and so on. Some website ask the surfer to complete a survey with a promise of a reward or something like that.
+
+Malevolent developers take advantage of the greed, the need and the want that people have for free stuff. They blend some malicious software into the mix. A user may end up downloading files with an unknown or rather an unfamiliar extension with the hope of getting a free "prize" or whatever. That's one way people install malware software into their system through clickbaits. (By the way, I don't know if anyone ever got that iPhone 13🤭)
+
+Other scenarios:
+Suppose you go on Google Playstore (or any app store that you use) and find this cool app that is requires money, or you are looking for an ebook that is hard to find or also requiring money, or a song that is being sold on a music platform. Malware attackers take advantage of that also and offer these items for free on their websites. Stuff like apps, books and music just to name a few have become potential threats.
+
+A user downloads this modified (or commonly known as mod) application with anticipation but what they don't know is that the mal-dev has tampered with the app's source code. Clickbaits like GTA V for mobile phone also attract a lot of people. This is also another way in which a malwares and virus are transmitted to systems.
+
+Getting computer applications on fishy-looking sites should be avoided. Sometimes the sites may look as normal as ever but I would suggest whenever you want to get something, get it from a proper or trusted source. Taking software from these other unverified sources may result in malware attacks or even ransomware.
+
+Also beware of so-called free antivirus softwares, these are one of malware transmitters. (Don't take me wrong, I'm not saying there aren't free antivirus softwares that are reliable, but one should be careful when downloading these "Free Antivirus Softwares")
+
+There is also another clickbait I have encountered that I find rather silly. A game like GTA V that is roughly 60 GB is being offered at ridiculous storage. A GTA V game is offered at 30 mb (An irresistible offer you think).
+
+That kind of compression doesn't exist yet. People being people will visit these sites with the hope of getting GTA V for only a few megabytes. Sometimes I think we need to make sense of things before making decisions.
+
+These site give you an EXE file with the same icon as the one on GTA V, with the same game title as GTA V. What's different is the content. Whilst installing the game, it may give you a simple error and you get frustrated and think that's it but infact it was installing a malware on your computer. Take a look at some comments about this on Quora.
+
+quora.com/Do-the-high-graphic-games-compres..
+
+From what I have seen, the developers extract text about the game information from the game's official site or from Wikipedia and paste it on their site inorder to make the website more realistic. Whilst the lazy ones just repeat the same 4 lines of text to make the information look long. (This is also taking advantage of people's laziness to read about a software's information)
+
+For now, Goodbye
