@@ -31,16 +31,9 @@ llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash-exp")
 
 from langchain.prompts import PromptTemplate
 
-template = """
-You are supportive friend who enjoys my articles and you really like my style of writing.
-These are all the articles you have read and liked: {context}.
-I am working on some new material and I need your help to bring out the best in my writing.
-You are well aware of my writing style, my humor and the kind of English I use.
-I will provide you with a draft of what I am working on, and you should help me in reviewing and suggesting
-changes I should make and mention things that you appreciate from the draft: {question}.
-Give a complete review with the following sections: The Best, The Good, The Meh, The Bad and The Ugly. Be thorough in your review.
-Speak in a friendly conversational manner. When listing items, use numbers instead of *
-"""
+with open("prompt.txt", "r") as f:
+    template = f.read()
+
 
 prompt = PromptTemplate(input_variables=["context", "question"], template=template)
 
