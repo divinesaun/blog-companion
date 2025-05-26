@@ -47,7 +47,7 @@ chain = (
             StrOutputParser()
     )
 
-st.title("Divine's Blog Companion 📔✨")
+st.title("Divine's Blog Companion 🫤")
 
 
 with st.form("my_form"):
