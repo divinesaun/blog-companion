@@ -6,7 +6,7 @@
 
 ## ✨ Features
 
-- 🧠 **Contextual Suggestions**: Pulls relevant content from a local article vector store to guide the improvement of your draft.
+- 🧠 **Contextual Suggestions**: Pulls relevant content from my local article vector store to guide the improvement of your draft.
 - ✍️ **LLM-powered Feedback**: Uses Gemini 2.0 Flash for quick, thoughtful responses.
 - 🗃️ **Custom Knowledge Base**: Vector database built from previously written articles or blogs.
 - 🎯 **Prompt Template Control**: Easily adjustable instructions via `prompt.txt`.
